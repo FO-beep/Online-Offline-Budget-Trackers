@@ -35,6 +35,6 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## Links
 
-* Github: []
-* Heroku: []
+* Github: [https://github.com/FO-beep/Online-Offline-Budget-Trackers]
+* Heroku: [https://on-off-budget-app.herokuapp.com]
 
